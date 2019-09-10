@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutOfKutai</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="occurred_error">Occurred error</string>
+    <string name="about_image">About Image</string>
+    <string name="user">User</string>
+    <string name="about">About</string>
+    <string name="continue_read">Continue Read</string>
+    <string name="detail">Detail</string>
+    <string name="ic_email">IC Email</string>
+    <string name="about_me">About Me</string>
+    <string name="indrian">INDRIAN</string>
+    <string name="rianmcpe16_gmail_com">rianmcpe16@gmail.com</string>
+</resources>
